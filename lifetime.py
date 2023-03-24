@@ -41,5 +41,5 @@ for i in range(0, len(content)):
                 print(1)
                 #print(content[i])
         
-        #print(app_name)
+        print(app_name)
         print(content[i])
