@@ -42,4 +42,4 @@ for i in range(0, len(content)):
                 #print(content[i])
         
         print(app_name)
-        print(content[i])
+        #print(content[i])
