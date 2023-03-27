@@ -38,6 +38,5 @@ for i in range(0, len(content)):
         while content[i][x] != "}" and content[i][x] != "/":
             app_name = app_name + content[i][x]
             x = x + 1
-        
         print(app_name)
         #print(content[i])
