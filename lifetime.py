@@ -39,4 +39,7 @@ for i in range(0, len(content)):
             app_name = app_name + content[i][x]
             x = x + 1
         print(app_name)
+
+
+        
         #print(content[i])
